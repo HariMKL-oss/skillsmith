@@ -1,0 +1,15 @@
+Skillsmith
+Copyright 2026 Hariprasad Manchikatla
+
+This product includes software originally developed by Anthropic, PBC,
+distributed as the "skill-creator" example skill under the Apache License,
+Version 2.0.
+
+Original work:  skill-creator (Anthropic example skills)
+License:        Apache License 2.0 (see LICENSE.txt)
+Modifications:  See CHANGES.md for a summary of changes made in this fork.
+
+This project is an independent, community-maintained fork. It is not an
+official Anthropic product and is not endorsed by or affiliated with
+Anthropic. "Claude" is a trademark of Anthropic, PBC, used here only to
+describe compatibility.
