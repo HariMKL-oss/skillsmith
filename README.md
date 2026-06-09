@@ -10,7 +10,6 @@
   <br>
 </div>
 
-Created and maintained by [**Hari (HariMKL-oss)**](https://github.com/HariMKL-oss).
 
 ## 🚀 What is Skillsmith?
 
