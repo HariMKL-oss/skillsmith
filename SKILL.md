@@ -1,5 +1,6 @@
 ---
 name: skillsmith
+author: "HariMKL-oss"
 description: Create new Claude skills and iteratively improve existing ones. Use this whenever the user wants to build a skill from scratch, turn a repeatable workflow or set of instructions into a reusable skill, edit or refine an existing skill, run test cases to evaluate a skill, benchmark a skill's quality, optimize a skill's description so it triggers reliably, or package a skill into an installable .skill file. Trigger even when the user doesn't say the word "skill" but is clearly describing a procedure they want Claude to follow consistently across many future tasks.
 ---
 
